@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## [nothing](https://noordahx.github.io/)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]( www.linkedin.com/in/taumergenov)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taumergenov)
 &nbsp;
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
  - ⚡ Hooray! port 3000 works-->
