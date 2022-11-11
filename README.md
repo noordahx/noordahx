@@ -1,8 +1,7 @@
 ### Hi there 👋
-## [nothing](https://noordahx.github.io/)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/taumergenov)
 &nbsp;
-[![Blog](https://jekyllrb.com/img/logo-2x.png)Blog](https://noordahx.github.io/)
+[![Blog](hhttps://jekyllrb.com/img/logo-2x.png)Blog](https://noordahx.github.io/)
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
  - ⚡ Hooray! port 3000 works-->
 <!--
