@@ -1,6 +1,9 @@
 ### Hi there 👋
 ## [nothing](https://noordahx.github.io/)
-<!-- - ⚡ Hooray! port 3000 works-->
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]( www.linkedin.com/in/taumergenov)
+&nbsp;
+<!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+ - ⚡ Hooray! port 3000 works-->
 <!--
 **ntaumerge2/ntaumerge2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
