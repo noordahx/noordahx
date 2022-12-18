@@ -1,7 +1,5 @@
-### Hi there 👋
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/taumergenov)
-&nbsp;
-[![Blog](https://i.stack.imgur.com/tskMh.png)Blog](https://noordahx.github.io/)
+### 你好
+
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
  - ⚡ Hooray! port 3000 works-->
 <!--
