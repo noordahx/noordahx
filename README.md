@@ -9,7 +9,7 @@ BEGIN
  major:='CompSci';
  WriteLn(Format('Hi, my name is %s %s and I am studying %s at %s',
                 [firstname, surname, major, university]));
-END;
+END.
 ```
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
  - ⚡ Hooray! port 3000 works-->
