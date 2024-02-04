@@ -2,14 +2,14 @@
 PROGRAM BIO;
 USES SysUtils, Math;
 VAR firstname, surname, university, major : string;
-begin
+BEGIN
  firstname:='Nurdaulet';
  surname:='Taumergenov';
  university:='CityU';
  major:='CompSci';
  WriteLn(Format('Hi, my name is %s %s and I am studying %s at %s',
                 [firstname, surname, major, university]));
-end.
+END;
 ```
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
  - ⚡ Hooray! port 3000 works-->
