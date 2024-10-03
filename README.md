@@ -3,12 +3,12 @@ PROGRAM BIO;
 USES SysUtils, Math;
 VAR firstname, surname, university, major : string;
 BEGIN
- firstname:='Nurdaulet';
- surname:='Taumergenov';
- university:='CityU';
- major:='CompSci';
- WriteLn(Format('Hi, my name is %s %s and I am studying %s at %s',
-                [firstname, surname, major, university]));
+ firstname:='Bulba';
+ surname:='Admiral';
+ // university:='🤔';
+ // major:='🤔';
+ // WriteLn(Format('Hi, my name is %s %s and I am studying %s at %s',
+ //                [firstname, surname, major, university]));
 END.
 ```
 <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
